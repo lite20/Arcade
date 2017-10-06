@@ -1,2 +1,2 @@
 # Arcade
-A simple low-level programming language
+An assembly pre-processsor
